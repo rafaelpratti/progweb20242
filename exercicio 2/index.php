@@ -1,6 +1,6 @@
 <?php
 
-$datetime = new DateTime("now", new DateTimeZone("Asia/Seoul"));
+$datetime = new DateTime("now", new DateTimeZone("America/Sao_Paulo"));
 $hora = $datetime->format('H');
 
 
